@@ -1,0 +1,11 @@
+galaxy_info:
+  description: "installing Guacamole"
+  min_ansible_version: 2.1
+  platforms:
+  - name: Ubuntu 14.04
+    versions:
+    - precise
+    - trusty
+  categories:
+  - system
+dependencies: []
